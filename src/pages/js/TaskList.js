@@ -1,5 +1,6 @@
 
 export default{
+    title: TaskList,
     data(){ //初期値を設定
         return{
             msg: 'To Do List',
